@@ -1,1 +1,2 @@
-dato1,dato2,dato3
+campo1;campo2;campo3
+dato1;dato2;dato3
